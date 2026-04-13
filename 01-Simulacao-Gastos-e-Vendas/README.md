@@ -13,5 +13,5 @@ Este projeto consiste na geração de dados fictícios baseado em gráficos exis
 - Matplotlib (Visualização de dados)
 
 ### 📈 Visualização:
-![Gráfico de Vendas](Vendas-Mensais-com-sazonalidade-2020-2022.png)
 ![Gráfico de Idade](Relação-entre-Idade-e-Gasto-Mensal.png)
+![Gráfico de Vendas](Vendas-Mensais-com-sazonalidade-2020-2022.png)
